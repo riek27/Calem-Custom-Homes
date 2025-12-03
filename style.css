@@ -275,7 +275,7 @@ header {
     color: var(--white);
     overflow: hidden;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80');
+                url('assets/adven.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
